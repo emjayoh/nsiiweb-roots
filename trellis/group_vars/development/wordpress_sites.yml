@@ -7,7 +7,7 @@ wordpress_sites:
     site_hosts:
       - canonical: nsiiweb.dev
         redirects:
-          - www.nsiiweb.com
+          - www.nsiiweb.dev
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: emjayoh@gmail.com
     multisite:
